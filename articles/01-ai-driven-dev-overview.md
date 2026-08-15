@@ -104,4 +104,4 @@ ChatGPTとの会話は便利ですが、そのままでは「今どんなチケ�
 
 ## 関連記事
 
-同じテーマの記事を公開でき次第、このページにもリンクを追記していきます。
+- [AIに丸投げしない。チケット駆動開発で変わったこと](https://zenn.dev/keisuke1306/articles/02-ticket-driven-development)
