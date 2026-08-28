@@ -129,3 +129,4 @@ AIを複数使うこと自体が目的ではありません。工程ごとの役
 
 - [ChatGPT × Claude Code × Codex × NotionでAI駆動開発を始めてみた](https://zenn.dev/keisuke1306/articles/01-ai-driven-dev-overview)
 - [AIに丸投げしない。チケット駆動開発で変わったこと](https://zenn.dev/keisuke1306/articles/02-ticket-driven-development)
+- [AIレビューを開発フローに組み込んでみた](https://zenn.dev/keisuke1306/articles/04-ai-code-review-workflow)

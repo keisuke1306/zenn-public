@@ -105,3 +105,5 @@ ChatGPTとの会話は便利ですが、そのままでは「今どんなチケ�
 ## 関連記事
 
 - [AIに丸投げしない。チケット駆動開発で変わったこと](https://zenn.dev/keisuke1306/articles/02-ticket-driven-development)
+- [ChatGPT・Codex・Claude Codeをどう役割分担したか。実際のチケットで紹介](https://zenn.dev/keisuke1306/articles/03-chatgpt-claude-codex-roles)
+- [AIレビューを開発フローに組み込んでみた](https://zenn.dev/keisuke1306/articles/04-ai-code-review-workflow)

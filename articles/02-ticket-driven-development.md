@@ -113,3 +113,5 @@ Notion MCPを導入したことで、Claude Codeが直接Notion上のチケッ�
 ## 関連記事
 
 - [ChatGPT × Claude Code × Codex × NotionでAI駆動開発を始めてみた](https://zenn.dev/keisuke1306/articles/01-ai-driven-dev-overview)
+- [ChatGPT・Codex・Claude Codeをどう役割分担したか。実際のチケットで紹介](https://zenn.dev/keisuke1306/articles/03-chatgpt-claude-codex-roles)
+- [AIレビューを開発フローに組み込んでみた](https://zenn.dev/keisuke1306/articles/04-ai-code-review-workflow)
